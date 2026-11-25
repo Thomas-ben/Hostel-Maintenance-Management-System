@@ -8,7 +8,7 @@
 .Project Objectives
 .Target Users
 .Research and Findings
-.Functional Requirements
+.Functional Requirement
 .Non-functional Requirements
 .Minimum Viable Product(MVP)
 .Complaint Workflow

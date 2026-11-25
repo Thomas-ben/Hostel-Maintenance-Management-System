@@ -53,3 +53,43 @@ Maintenance personnel will be responsible for handling assigned maintenance requ
 **Stakeholders**
 **University Facilities Management**
 The University's Facilities Management Department will serve as its stakeholder. Its involvement  includes overseeing maintenance activities, coordinating personnel, and monitoring the resolution of reported issues.
+
+**Research and Findings**
+The purpose of this research is to identify the challenges students face when reporting hostel maintenance problems at Babcock University and determine how a digital reporting system can improve the process.
+
+ Primary Research
+
+A survey was conducted among 10 students of Babcock University to understand their experiences with hostel maintenance problems and the existing complaint-reporting process.
+
+Secondary Research
+
+Secondary research involved reviewing Babcock University's hostel information, existing maintenance procedures and other hostel management systems. This helped identify how technology can improve maintenance reporting, complaint tracking and communication.
+
+Survey Results
+
+A total of 10 Babcock University students participated in the survey. The responses are presented below.
+
+Survey Question| Yes| No
+Have you experienced hostel maintenance problems?| 7 (70%)| 3 (30%)
+Have you reported maintenance issues before?| 8 (80%)| 2 (20%)
+Do you experience delays in repairs?| 8 (80%)| 2 (20%)
+Would you prefer reporting complaints online?| 8 (80%)| 2 (20%)
+Do you believe tracking complaint progress would be helpful?| 9 (90%)| 1 (10%)
+
+ Research Findings
+
+Based on the survey conducted, the following findings were identified:
+
+1. 70% of the students have experienced maintenance problems in their hostels.
+2. 80% have previously reported maintenance issues.
+3. 80% experience delays in getting maintenance problems resolved.
+4. 80% prefer reporting maintenance complaints through an online platform.
+5. 90% believe that tracking the progress of maintenance complaints would be helpful.
+
+These findings show that students need a more accessible and organized way to report and monitor hostel maintenance problems.
+
+Problem Validation
+
+The survey results confirm the need for an improved hostel maintenance reporting process at Babcock University. The high percentage of students experiencing repair delays and the strong interest in online complaint reporting show the potential value of the proposed system.
+
+The Hostel Maintenance Reporting System will allow students to submit complaints online, track their requests and receive updates. It will also help hostel administrators organize complaints and monitor maintenance activities.

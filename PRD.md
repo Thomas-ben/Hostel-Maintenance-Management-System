@@ -1,4 +1,4 @@
-<ins>>**PRODUCT REQUIREMENTS DOCUMENT (PRD)**</ins>
+<ins>**PRODUCT REQUIREMENTS DOCUMENT (PRD)**</ins>
 
 <ins>**Project Title: Hostel Maintenance Management System**</ins>
 

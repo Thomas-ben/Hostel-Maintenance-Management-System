@@ -6,7 +6,7 @@
 -Project Overview
 -Problem Statement
 -Project Objectives
--Target Users
+-Target Users and Stakeholders
 -Research and Findings
 -Functional Requirement
 -Non-functional Requirements
@@ -43,10 +43,13 @@ The Project objectives are to:
 -Enhance the monitoring and management of hostel maintenance activities through organized records and status updates.
 
 **Target Users**
--Students residing in university hostels will be the primary users of the system. They will be able to report maintenance issues, provide descriptions and relevant details, and track the progress of their submitted requests.
-4.2 Hostel Administrators
+**Students**
+Students residing in university hostels will be the primary users of the system. They will be able to report maintenance issues, provide descriptions and relevant details, and track the progress of their submitted requests.
+**Hostel Administrators**
 Hostel administrators will be responsible for receiving, reviewing, monitoring, and managing maintenance complaints submitted by students. They will also coordinate the handling of reported issues and ensure that requests are directed to the appropriate personnel.
-4.3 Maintenance Personnel
+**Maintenance Personnel**
 Maintenance personnel will be responsible for handling assigned maintenance requests, updating the status of ongoing repairs, providing feedback, and recording completed maintenance work through the platform.
-4.4 University Facilities Management
-The University's Facilities Management Department, or the relevant department responsible for hostel maintenance, will serve as an operational stakeholder. Its involvement may include overseeing maintenance activities, coordinating personnel, and monitoring the resolution of reported issues, subject to confirmation of the University's existing maintenance structure.
+
+**Stakeholders**
+**University Facilities Management**
+The University's Facilities Management Department will serve as its stakeholder. Its involvement  includes overseeing maintenance activities, coordinating personnel, and monitoring the resolution of reported issues.

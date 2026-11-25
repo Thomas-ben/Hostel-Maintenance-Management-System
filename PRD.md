@@ -1,8 +1,8 @@
-<u>*PRODUCT REQUIREMENTS DOCUMENT (PRD)*</u>
+<ins>>**PRODUCT REQUIREMENTS DOCUMENT (PRD)**</ins>
 
-<u>*Project Title: Hostel Maintenance Management System*</u>
+<ins>**Project Title: Hostel Maintenance Management System**</ins>
 
-Table of Contents
+<ins>**Table of Contents**</ins>
 .Project Overview
 .Problem Statement
 .Project Objectives
@@ -16,7 +16,7 @@ Table of Contents
 .Project Risks And Limitations
 .Conclusion
 
-.*Project Overview*
+.**Project Overview**
     The Hostel Maintenance Management System is a system designed to improve the process of 
 reporting, monitoring and managing maintenace problems within university halls/hostels.
     The platform will provide a way for students and staff living on campus to submit complaints on
@@ -24,7 +24,7 @@ their living conditions and help them track its progress. It will provide a way 
     The project aims to make hostel maintenance reporting, monitoring and managing more organized 
 and easy to access.
 
-.*Problem Statement*
+.**Problem Statement**
     Students in university halls will experience maintenance issues such as faulty electrical appliances, plumbing problems, damaged 
 facilities, and so on. However, reporting these problems and ensuring they are resolved can be difficult due to the lack of an efficient reporting system.
     The existing process makes it difficult for students to submit complaints, receive feedback, track the status of their requests, 

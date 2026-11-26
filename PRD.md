@@ -9,10 +9,13 @@
 -Target Users and Stakeholders
 -Research and Findings
 -Proposed Solution
+-User Stories
+-Acceptance Criteria
 -Initial Functional Requirement
 -Non-functional Requirements
 -Minimum Viable Product(MVP)
 -Project Risks And Limitations
+-Assumptions
 -Conclusion
 
 .**Project Overview**
@@ -99,7 +102,7 @@ Problem Validation
     The survey results confirm the need for an improved hostel maintenance reporting process at 
 Babcock University. The high percentage of students experiencing repair delays and the strong interest in online complaint reporting show the potential value of the proposed system
 
-Proposed Solution
+**Proposed Solution**
 
 How the system will work:
 1. A student reports a maintenance problem.
@@ -117,7 +120,12 @@ How the system will work:
 arise.
 6. As a Maintenance Personnel, I want to notify students of completed repairs.
 
-
+**Acceptance Criteria**
+- User's must be authenticated
+- User's name must be provided
+- Maintenance Personnel job descriptions must be provided
+- Self Image of Maintenance Personnel must be uploaded
+- Invalid submissions must be rejected with appropriate error
 
 **Initial Functional Requirements**
 
@@ -192,6 +200,10 @@ Some of the possible risks include:
 
 To reduce these challenges, the system should be simple to use, provide clear instructions when submitting complaints and have proper security measures. There should also be good communication between students, administrators and maintenance personnel to ensure that reported problems are attended to.
 
+**Asumptions**
+- Users have smartphones with data, If wrong, MVP should have an offline option
+- Users are knowlegded in the use of technology, If wrong, MVP should be easy to use.
+- Users know how to navigate the system, If wrong, MVP should have a tutorial on start and option to retake at any point if needed
 
 **Conclusion**
 

@@ -108,6 +108,16 @@ How the system will work:
 4. The maintenance worker attends to the problem.
 5. The student can monitor the complaint until it is resolved.
 
+**User Stories**
+1. As a student, I want to create an account so that I can report maintenance problems.
+2. As a Hall Administrator, I want to check the complaints of the students.
+3. As a Hall Administrator, I want to contact the appropriate personnel to resolve the problems.
+4. As a Maintenance Personnel, I want to show the progress of the ongoing repairs.
+5. As a Maintenance Personnel, I want to notify the Hall Administrators of any complications that 
+arise.
+6. As a Maintenance Personnel, I want to notify students of completed repairs.
+
+
 
 **Initial Functional Requirements**
 
@@ -126,7 +136,7 @@ Functional requirements explain the different things the proposed system should 
 11. The system should keep records of previous complaints.
 12. Completed maintenance requests should be marked as resolved.
 
-8. INITIAL NON-FUNCTIONAL REQUIREMENTS
+**Initial Non-Functional Requirements**
 
 Non-functional requirements explain the qualities and standards the proposed system should meet to work effectively:
 
